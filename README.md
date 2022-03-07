@@ -20,7 +20,7 @@ Correo: alu0101336152@ull.edu.es
    - Inicio de los trámites de matriculación.
    - Consulta de las notas del primer cuatrimestre.
 
-   Estas búsquedas debían de ser grabadas y comentadas, dividimos una búsqueda para cada uno de los integrantes del grupo, consiguiendo el siguiente vídeo como resultado final: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing. Además debiamos de redactar un pequeño resumen sobre nuestra experiencia llevando a cabo el seminario, el cual se puede encontrar en este mismo repositorio bajo el nombre: "Seminario: Uso de la web por Personas con Disfuncionalidad.pdf"
+   Estas búsquedas debían de ser grabadas y comentadas, dividimos una búsqueda para cada uno de los integrantes del grupo, consiguiendo el siguiente vídeo como resultado final: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing. Además debiamos de redactar un pequeño resumen sobre nuestra experiencia llevando a cabo el seminario, el cual se puede encontrar en este mismo repositorio bajo el nombre: "Seminario: Uso de la web por Personas con Disfuncionalidad.pdf".
 
 
    
