@@ -1,6 +1,8 @@
-# UyA
-Nombre: Pablo de la Fuente Rodríguez.\
-Correo: alu0101336152@ull.edu.es
+# Grupo-14-UyA
+* Nombre: Pablo de la Fuente Rodríguez | Correo: alu0101336152@ull.edu.es
+* Nombre: Samuel Martín Morales        | Correo: alu0101359526@ull.edu.es
+* Nombre: Alejandro Lugo Fumero        | Correo: alu0101329185@ull.edu.es
+* Nombre: Javier Mendoza López         | Correo: alu0101320779@ull.edu.es
 
 ## 1. Seminario: DCU
    Seminario dedicado al Diseño Centrado en el Usuario (DCU). Distinguimos dos tareas a realizar:
@@ -15,13 +17,10 @@ Correo: alu0101336152@ull.edu.es
 La realización de la actividad se basa en el pdf subido al campus vitual en formato pdf llamado "Ejemplo de aplicación del DCU en un sitio web de una biblioteca universitaria". El resultado del seminario se encuentra en el repositorio en formato pdf bajo el nombre "Seminario DCU".
 
 ## 2. Seminario: Uso de la Web por Personas con Disfuncionalidad
-   El segundo seminario de la asignatura consistía en aprender cómo navega por una web una persona con discapacidad visual. Para ello, lo primero es la instalación de la extensión Screen Reader para el navegador Chrome. Acto seguido indagamos en la extensión tratando de ver los distintos comandos y todas las posibilidades que nos ofrece esta extensión. A continuación prácticamos haciendo varias búsquedas para adecuarnos al sistema, con el fin de hacer las búsquedas a través de la web de la ULL que se pedía en el seminario. Son las siguientes:
+   El segundo seminario de la asignatura está dedicado a realizar búsquedas en la web de la ULL como lo harían personas con discapacidad visual. Las búsquedas son las siguientes:
    - Consulta del calendario académico.
    - Búsqueda de los horarios de la asignatura de usabilidad.
    - Inicio de los trámites de matriculación.
    - Consulta de las notas del primer cuatrimestre.
 
-   Estas búsquedas debían de ser grabadas y comentadas, dividimos una búsqueda para cada uno de los integrantes del grupo, consiguiendo el siguiente vídeo como resultado final: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing. Además debiamos de redactar un pequeño resumen sobre nuestra experiencia llevando a cabo el seminario, el cual se puede encontrar en este mismo repositorio bajo el nombre: "Seminario: Uso de la web por Personas con Disfuncionalidad.pdf".
-
-
-   
+   Para realizar la prácticas se debe de hacer uso del navegador Chrome y su extensión Screen Reader. El resultado del seminario consiste en la grabación de un vídeo con las búsquedas: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing y un resumen de 200 palabras sobre la experiencia, subido a este repositodio en formato pdf bajo el nombre "Seminario: Uso de la web por Personas con Disfuncionalidad.pdf".
