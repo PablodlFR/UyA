@@ -23,4 +23,4 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
    - Inicio de los trámites de matriculación.
    - Consulta de las notas del primer cuatrimestre.
 
-   Para realizar la prácticas se debe de hacer uso del navegador Chrome y su extensión Screen Reader. El resultado del seminario consiste en la grabación de un vídeo con las búsquedas: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing y un resumen de 200 palabras sobre la experiencia, subido a este repositodio en formato pdf bajo el nombre "Seminario: Uso de la web por Personas con Disfuncionalidad.pdf".
+   Para realizar la prácticas se debe de hacer uso del navegador Chrome y su extensión Screen Reader. El resultado del seminario consiste en la grabación de un vídeo con las búsquedas: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing y un resumen de 200 palabras sobre la experiencia, subido a este repositodio en formato pdf bajo el nombre "Seminario: Uso de la web por Personas con Disfuncionalidad".
