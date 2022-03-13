@@ -24,3 +24,14 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
    - Consulta de las notas del primer cuatrimestre.
 
    Para realizar la prácticas se debe de hacer uso del navegador Chrome y su extensión Screen Reader. El resultado del seminario consiste en la grabación de un vídeo con las búsquedas: https://drive.google.com/file/d/1Z97QjNdfNEq3gGxyETeo0wYmCKqMcqRv/view?usp=sharing y un resumen de 200 palabras sobre la experiencia, subido a este repositodio en formato pdf bajo el nombre "Seminario: Uso de la web por Personas con Disfuncionalidad".
+   
+ ## 3. Seminario: Legislación Accesibilidad.
+   Seminario dedicado a la realización de una inforgrafía basada en las Entidades Obligadas del Real Decreto 1112/2018 sobre los siguientes contenidos:
+   - Entidades Obligadas (Incluir ejemplos de cumplimiento y de incumplimiento).
+   - Obligaciones respecto a la accesibilidad.
+   - Fechas clave.
+   - Actividades periódicas.
+   - Declaración de accesibilidad.
+   - Unidad de Accesibilidad.
+
+   La inforgrafía se encuentra subida en el repositorio en formato pdf con el nombre "Inforgrafía: Legislación Accesibilidad".
