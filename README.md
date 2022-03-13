@@ -12,7 +12,7 @@ Correo: alu0101336152@ull.edu.es
    - Realizar el documento Readme en el repositorio en el que se documente el proceso a seguir. 
    - En la entrega de texto agregar un enlace a dicho documento. En la entrega subir un pdf.
          
-   La realización de la actividad se basa en el pdf subido al campus vitual en formato pdf llamado "Ejemplo de aplicación del DCU en un sitio web de una biblioteca universitaria". El resultado del seminario se encuentra en el repositorio en formato pdf bajo el nombre "Seminario DCU".
+La realización de la actividad se basa en el pdf subido al campus vitual en formato pdf llamado "Ejemplo de aplicación del DCU en un sitio web de una biblioteca universitaria". El resultado del seminario se encuentra en el repositorio en formato pdf bajo el nombre "Seminario DCU".
 
 ## 2. Seminario: Uso de la Web por Personas con Disfuncionalidad
    El segundo seminario de la asignatura consistía en aprender cómo navega por una web una persona con discapacidad visual. Para ello, lo primero es la instalación de la extensión Screen Reader para el navegador Chrome. Acto seguido indagamos en la extensión tratando de ver los distintos comandos y todas las posibilidades que nos ofrece esta extensión. A continuación prácticamos haciendo varias búsquedas para adecuarnos al sistema, con el fin de hacer las búsquedas a través de la web de la ULL que se pedía en el seminario. Son las siguientes:
