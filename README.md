@@ -34,4 +34,4 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
    - Declaración de accesibilidad.
    - Unidad de Accesibilidad.
 
-   La inforgrafía se encuentra subida en el repositorio en formato pdf con el nombre "Inforgrafía: Legislación Accesibilidad".
+   La inforgrafía se encuentra subida en el repositorio en formato pdf con el nombre "Inforgrafía - Legislación Accesibilidad".
