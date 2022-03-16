@@ -37,5 +37,6 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
    La inforgrafía se encuentra subida en el repositorio en formato pdf con el nombre "Seminario - Legislación Accesibilidad".
    
 ## 4. Seminario: Perceptible
-   Seminario dedicado al principio perceptible de WACG 2.1, evaluando los criterios A y AA sobre la página de Inicio de una página de nuestra elección sobre las permitidas: https://www.museosdetenerife.org/. \ \
+   Seminario dedicado al principio perceptible de WACG 2.1, evaluando los criterios A y AA sobre la página de Inicio de una página de nuestra elección sobre las permitidas: https://www.museosdetenerife.org/. \
+   \
    La evaluación de los criterios se encuentra subida al repositorio en formato xslx bajo el nombre "Seminario - Perceptible".
