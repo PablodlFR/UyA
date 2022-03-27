@@ -39,4 +39,4 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
 ## 4. Seminario: Perceptible
    Seminario dedicado al principio perceptible de WACG 2.1, evaluando los criterios A y AA sobre la página de Inicio de una página de nuestra elección sobre las permitidas: https://www.museosdetenerife.org/. \
    \
-   La evaluación de los criterios se encuentra subida al repositorio en formato xslx bajo el nombre "Seminario - Perceptible".
+   La evaluación de los criterios y su razonamiento se encuentra subida al repositorio en formato pdf bajo el nombre "Seminario - Perceptible". También se encuentra el excel que recoge la revisión de accesibilidad, bajo el nombre "Informe Revision Accesibilidad".
