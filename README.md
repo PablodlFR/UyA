@@ -47,6 +47,6 @@ La realización de la actividad se basa en el pdf subido al campus vitual en for
    Todo lo mencionado anteriormente se encuentra subido al repositorio en formato pdf bajo el nombre "Seminario Perceptible-Operable". También ha sido actualizado el excel "Informe Revision Accesibilidad" con la nueva información pertinente.
    
 ## 6. Seminario: Comprensible-Robusto
-   Seminario dedicado a los principio comprensible y robusto de WACG 2.1, donde se continúa completa las pautas dedichos principios. Estas deberán de ser ilustradas con imágenes siempre que sea posible. La evaluación se seguirá realizando en la web: https://www.museosdetenerife.org/. \
+   Seminario dedicado a los principio comprensible y robusto de WACG 2.1, donde se continúa completa las pautas dedichos principios. Estas deberán de ser ilustradas con imágenes siempre que sea posible. La evaluación se seguirá realizando en la web: https://www.museosdetenerife.org/. 
 
    Todo lo mencionado anteriormente se encuentra subido al repositorio en formato pdf bajo el nombre "Seminario Comprensible-Robusto". También ha sido actualizado el excel "Informe Revision Accesibilidad" con la nueva información pertinente.
